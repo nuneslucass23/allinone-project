@@ -16,7 +16,7 @@ Responsive single-page website developed for a fencing company.
 - JavaScript
 
 ## Live Demo
-(coming soon)
+https://lnkd.in/g-ht-Rsd
 
 ## Author
 Lucas Nunes Nogueira
